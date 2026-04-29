@@ -5,7 +5,7 @@ A robust, professional Ecommerce application built with **PHP Laravel**. This pr
 ## 🚀 Core Features
 
 ### 👤 Customer Features
-* **Secure Authentication:** User registration and login with **OTP (One-Time Password) Verification** for enhanced security.
+* **Secure Authentication:** User registration and login with auth and middleware for enhanced security.
 * **Product Discovery:** Browse products by categories with a responsive UI.
 * **Shopping Cart:** Add, remove, and update product quantities in real-time.
 * **Checkout System:** Secure checkout process with order placement tracking.
