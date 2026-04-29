@@ -20,12 +20,12 @@ A robust, professional Ecommerce application built with **PHP Laravel**. This pr
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="screenshots/Laravel Store — Mozilla Firefox 4_29_2026 1_40_03 PM.png" width="45%" alt="Home Page">
-  <img src="screenshots/admin-dashboard.png" width="45%" alt="Admin Dashboard">
+  <img src="screenshots/home.png" width="45%" alt="Home Page">
+  <img src="screenshots/dashboard.png" width="45%" alt="Admin Dashboard">
 </p>
 <p align="center">
   <img src="screenshots/cart.png" width="45%" alt="Cart Page">
-  <img src="screenshots/otp-verify.png" width="45%" alt="OTP Verification">
+  <img src="screenshots/placeorder.png" width="45%" alt="OTP Verification">
 </p>
 
 ## 🛠️ Tech Stack
